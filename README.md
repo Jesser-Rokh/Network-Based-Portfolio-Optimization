@@ -1,1 +1,3 @@
-This repository presents a complete implementation of portfolio diversification through correlation networks and heuristic maximum independent set approximations.
+Graph-Based-Portfolio-Allocation
+
+This repository presents a complete implementation of a portfolio construction strategy that uses asset correlation networks, approximate Maximum Independent Set sampling, and centrality measures to build diversified, low-correlation portfolios.
