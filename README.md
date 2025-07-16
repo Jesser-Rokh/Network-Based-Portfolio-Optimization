@@ -1,3 +1,3 @@
-Graph-Based-Portfolio-Allocation
+#Network-Based-Portfolio-Allocation
 
-This repository presents a complete implementation of a portfolio construction strategy that uses asset correlation networks, approximate Maximum Independent Set sampling, and centrality measures to build diversified, low-correlation portfolios.
+This repository presents a complete implementation of a **portfolio construction strategy** that uses **asset correlation networks**, approximate **Maximum Independent Set** sampling, and **centrality measures** to build diversified, low-correlation portfolios.
